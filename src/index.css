@@ -57,3 +57,8 @@ article h3 {
   color: var(--link);
   margin-bottom: 0rem;
 }
+
+article h3 small {
+  font-size: 10px;
+  color: white;
+}
